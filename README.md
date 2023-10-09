@@ -1,4 +1,4 @@
-<h1><a href="#" target="_blank" title="hi, i'm Paitong">🤓</a></h1>
+<h1><a href="https://nxdus.github.io/link-tree-project/" target="_blank" title="hi, i'm Paitong">🤓</a></h1>
 
 # Programing Languages
 ![nextdotjs](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
