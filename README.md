@@ -4,7 +4,7 @@
 - have nothing. 😭
 
 # project
-- [Tree link Project]() [live](https://nxdus.github.io/link-tree-project/)
+- [tree link Project](https://github.com/Nxdus/link-tree-project) [\[live]\](https://nxdus.github.io/link-tree-project/)
 
 # contact
 - instagram : [_.ptxz](https://www.instagram.com/_.ptxz/)
