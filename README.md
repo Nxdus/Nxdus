@@ -8,6 +8,7 @@
 
 # Projects
 - 💻 [Treelink Project](https://github.com/Nxdus/link-tree-project) \[[live](https://nxdus.github.io/link-tree-project/)\]
+- 🌍 [Green Globe Go Project](https://github.com/Nxdus/GreenGlobeGo) \[[live](https://green-globe-go.vercel.app/)\]
 
 # Contact
 - instagram : [_.ptxz](https://www.instagram.com/_.ptxz/)
