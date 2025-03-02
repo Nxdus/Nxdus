@@ -1,6 +1,6 @@
 <h1><a href="https://nxdus.github.io/link-tree-project/" target="_blank" title="hi, i'm Paitong">🤓</a></h1>
 
-# Programing Languages
+# Programing Languages & Technologies
 ![nextdotjs](https://img.shields.io/badge/nextjs-000000?style=for-the-badge&logo=nextdotjs&logoColor=white)
 ![React](https://img.shields.io/badge/reactjs-61DAFB?style=for-the-badge&logo=react&logoColor=black) 
 ![javascript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
