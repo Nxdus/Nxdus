@@ -7,6 +7,7 @@
 ![lua](https://img.shields.io/badge/lua-2C2D72?style=for-the-badge&logo=lua&logoColor=white)
 
 # Projects
+- 🍱 [Bento Portfolio](https://github.com/Nxdus/about-me) \[[Live] (https://nxdus.github.io/about-me/)\]
 - 💻 [Treelink Project](https://github.com/Nxdus/link-tree-project) \[[Live](https://nxdus.github.io/link-tree-project/)\]
 - 🌍 [Green Globe Go Project](https://github.com/Nxdus/GreenGlobeGo) \[[Live](https://green-globe-go.vercel.app/)\]
 
